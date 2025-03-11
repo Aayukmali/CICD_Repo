@@ -1,0 +1,10 @@
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\bin\Debug\bronze_db.dacpac
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\bin\Debug\bronze_db.dll
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\bin\Debug\bronze_db.pdb
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\bronze_db.sqlproj.AssemblyReference.cache
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\Model.xml
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\refactor.xml
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\postdeploy.sql
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\predeploy.sql
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\bronze_db.dll
+C:\Users\Janak\Desktop\CICD_Repo\CICD_Repo\bronze_db\obj\Debug\bronze_db.pdb
